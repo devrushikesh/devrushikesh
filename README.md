@@ -46,9 +46,9 @@
 ## 🌟 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devrushikesh&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devrushikesh&theme=radical" alt="GitHub Streak" width="400"/>
 </div>
 
 ---
@@ -56,11 +56,6 @@
 ## 📫 Connect with Me
 
 <div align="center">
-  <a href="mailto:rushikeshchoudhari0374@gmail.com">✉️ Email</a> •
+  rushikeshchoudhari0374@gmail.com
 </div>
 
----
-
-<div align="center">
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-github-username)
-</div>
